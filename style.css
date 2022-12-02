@@ -767,7 +767,7 @@ section {
 
 /********* FOOTER *********/
 footer {
-    background-image: linear-gradient(#d8bfa9 , #bb865a ,#c19060);
+    background-image: linear-gradient(#6b28c3 ,#4a1a8a ,#350c6c);
     min-height: 84vh;
 }
 
@@ -785,7 +785,7 @@ footer {
 .title2 h1,h3 {
     text-transform: uppercase;
     margin: 30px 0;
-    color: rgba(0, 0, 0, 0.846);
+    color: #fff;
 }
 
 .title2 p {
@@ -793,7 +793,7 @@ footer {
     letter-spacing: 0.8px;
     line-height: 22px;
     margin-bottom: 30px;
-    color: rgba(0, 0, 0, 0.755);
+    color: #fff;
 }
 
 .branch-contact {
@@ -803,8 +803,8 @@ footer {
 .branch-contact i {
     text-align: center;
     font-size: 20px;
-    color: #bb865a;
-    background: rgba(0, 0, 0, 0.846);
+    color: #4a1a8a;
+    background: #fff;
     border-radius: 50%;
     padding: 10px;
     margin: 10px 10px 0 0;
@@ -812,7 +812,7 @@ footer {
 
 .branch-contact span {
     padding: 20px 0;
-    color: rgba(0, 0, 0, 0.846);
+    color: #fff;
     font-size: 20px;
     margin: 20px 0;
     padding: 20px 0;
@@ -823,7 +823,7 @@ footer {
 }
 
 .branch-social a {
-    color: rgba(0, 0, 0, 0.846);
+    color: #fff;
     font-size: 15px;
     font-weight: bold;
     margin-left: 10px;
@@ -845,13 +845,14 @@ footer {
 }
 
 .item-footer ul li {
-    color: rgba(0, 0, 0, 0.755);
+    color: #fff;
     margin-bottom: 10px;
 }
 
 .saved {
     margin-top: 18px;
     text-align: center;
+    color: #fff;
 }
 
 .saved span {
@@ -881,10 +882,10 @@ footer {
         letter-spacing: 0.8px;
         line-height: 22px;
         margin-bottom: 30px;
-        color: rgba(0, 0, 0, 0.755);
+        color: #fff;
     }
     .branch-social a {
-        color: rgba(0, 0, 0, 0.846);
+        color: #fff;
         font-size: 13px;
         font-weight: bold;
         margin-left: 8px;
